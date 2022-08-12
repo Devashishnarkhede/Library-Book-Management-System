@@ -1,14 +1,14 @@
-#Company Name        : TickTech IT Solutions
-#Team id             : TEAM WD1427
-#Domain of Project   : we use Full stack web development Technology
-#
-#Short Description of your Project :
-# Library-Book-Management-System
+Company Name        : TickTech IT Solutions
+Team id             : TEAM WD1427
+Domain of Project   : we use Full stack web development Technology
+
+Short Description of your Project :
+ Library-Book-Management-System
 The project titled Library book Management System is Library management software for monitoring and controlling the transactions in a library. The project "Library Management System" mainly focuses on basic operations in a library like adding new members, new books, and updating new information, searching books and members, and facility to borrow and return books.
+
+ Technology Stack   : HTML,CSS,PHP
 #
- #Technology Stack   : HTML,CSS,PHP
-#
-#Steps to run the code :
+Steps to run the code :
 
 # Installation
 
